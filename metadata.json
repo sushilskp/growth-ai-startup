@@ -1,0 +1,7 @@
+{
+  "name": "NovaBiz - Startup Catalyst",
+  "description": "A comprehensive SaaS dashboard for business startups featuring AI planning, task management, community networking, and daily market insights with a premium glassmorphic UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
